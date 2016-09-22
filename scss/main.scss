@@ -1,0 +1,95 @@
+*{ box-sizing: border-box }
+
+img {
+   width: 100%;
+   display: block;
+}
+
+#app-container-1{
+   max-width: 960px;
+   background: url(../images/beoplay-signup-flash/pexels-photo-136159-large.jpeg) center center no-repeat;
+   background-size: cover;
+   height: 100vh;
+   padding-left: 60px;
+   position: relative;
+
+.flash{
+width: 100%;
+position: absolute;
+bottom: 0;
+right: 0;
+display: inline-block;
+text-align: center;
+background: grey;
+max-width: 500px;
+
+.modal-photo{
+  display: inline-block;
+  width: 54%;
+}
+.modal-text{
+  display: inline-block;
+  vertical-align: top;
+  width: 45%;
+}
+h2, p, h3, button{
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  background: grey;
+}
+
+button{
+  background: black;
+  margin-top: 5px;
+  font-size: 10px;
+  padding: 10px;
+  text-transform: uppercase;
+  color: white;
+}
+
+}
+
+}
+#app-container-2{
+   max-width: 960px;
+   background: url(../images/photo.jpg) center center no-repeat;
+   background-size: cover;
+   height: 100vh;
+   padding-left: 60px;
+   position: relative;
+
+.list-container {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  vertical-align: top;
+
+  h3 {
+    display: inline-block;
+    font-size: 80px;
+    text-align: center;
+    width: 22%;
+    vertical-align: top;
+    margin-bottom: 0;
+    font-family: helvetica;
+
+  }
+
+ }
+ .background-avocado{
+ width: 100%;
+ position: absolute;
+ max-width: 960px;
+}
+
+.bag-photo{
+width: 4%;
+position: absolute;
+bottom: 60%;
+right: -3%;
+color: black;
+margin: 0;
+ }
+ 
+}
