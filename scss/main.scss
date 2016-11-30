@@ -66,30 +66,41 @@ button{
   vertical-align: top;
 
   h3 {
-    display: inline-block;
-    font-size: 80px;
-    text-align: center;
-    width: 22%;
-    vertical-align: top;
-    margin-bottom: 0;
-    font-family: helvetica;
+  display: inline-block;
+  font-size: 80px;
+  text-align: center;
+  width: 22%;
+  vertical-align: top;
+  margin-bottom: 0;
+  font-family: helvetica;
 
   }
 
  }
  .background-avocado{
- width: 100%;
- position: absolute;
- max-width: 960px;
+  width: 100%;
+  position: absolute;
+  max-width: 960px;
 }
 
-.bag-photo{
-width: 4%;
-position: absolute;
-bottom: 60%;
-right: -3%;
-color: black;
-margin: 0;
+ .bag-photo{
+  width: 4%;
+  position: absolute;
+  bottom: 60%;
+  right: -3%;
+  color: black;
+  margin: 0;
  }
- 
+ .shop-button{
+   height: 20px;
+   width: 10%;
+   position: absolute;
+   bottom: 5%;
+   right: 35%;
+   z-index: 99999;
+   height: 100px;
+   width:100px;
+
+ }
+
 }

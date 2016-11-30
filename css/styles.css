@@ -72,5 +72,14 @@ img {
     right: -3%;
     color: black;
     margin: 0; }
+  #app-container-2 .shop-button {
+    height: 20px;
+    width: 10%;
+    position: absolute;
+    bottom: 5%;
+    right: 35%;
+    z-index: 99999;
+    height: 100px;
+    width: 100px; }
 
 /*# sourceMappingURL=styles.css.map */
